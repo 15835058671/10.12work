@@ -1,1 +1,1 @@
-：http://design1.duapp.com/work/index/shouye.php
+http://design1.duapp.com/work/index/shouye.php
